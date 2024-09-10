@@ -1,6 +1,6 @@
 # Lab 2 - *Instaparse - PT 1*
 
-Submitted by: **Sharnica Jeudy**
+Submitted by: **Sharnica Jeudy Z23582376**
 
 **Instaparse - PT 1** is an app that creates and configures a custom remote Parse backend Server. Adds and configures Parse Swift SDK in your project. Handle user authentication via Parse Swift. Saves and accesses data via Parse Swift. Allow user's to pick a photo form their photo library. 
 
