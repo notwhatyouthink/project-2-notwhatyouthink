@@ -1,4 +1,4 @@
-# Project 2 - *Instaparse - PT 1*
+# Lab 2 - *Instaparse - PT 1*
 
 Submitted by: **Sharnica Jeudy**
 
